@@ -1,6 +1,6 @@
 describe('TODOapp', () => {
     beforeEach(() => {
-      cy.visit('https://todomvc.com/examples/react/dist/');
+      cy.visit(Cypress.env('todoAppUrl'));
     });
   
     // Adding Task 

@@ -53,12 +53,12 @@ This will launch the Cypress Test Runner, where you can select the test suite an
 
 The test suite includes the following test cases:
 
-1. **Add Task**: Verifies that a new task can be added to the task list.
-2. **Mark Task as Complete**: Verifies that a task can be marked as complete, and the completed task is visible in the "Completed" section.
-3. **Delete Task**: Verifies that a task can be deleted from the task list.
-4. **Edit Task**: Verifies that a task can be edited, and the task text is updated correctly.
-5. **Filter Tasks**: Verifies that tasks can be filtered by their completion status using the "Active" and "Completed" sections.
-6. **Complete All Tasks**: Verifies that all tasks can be marked as complete by clicking the "Toggle All" checkbox.
+1. **Adding Task**: Verifies that a new task can be added to the task list.
+2. **Completing Task**: Verifies that a task can be marked as complete, and the completed task is visible in the "Completed" section.
+3. **Deleting Task**: Verifies that a task can be deleted from the task list.
+4. **Editing Task**: Verifies that a task can be edited, and the task text is updated correctly.
+5. **Filtering Tasks**: Verifies that tasks can be filtered by their completion status using the "Active" and "Completed" sections.
+6. **Clearing Completed Tasks**: Verifies that all tasks can be clear completed once cleared task button is clicked.
 
 ## Project Structure
 
