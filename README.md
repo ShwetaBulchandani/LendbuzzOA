@@ -1,4 +1,4 @@
-# TODOapp Test
+# TODO App Test
 
 This project contains a test cases for the TODOapp using Cypress and TypeScript. The test cases covers various functionalities of the TODOapp, including adding tasks, marking tasks as complete, deleting tasks, editing tasks, filtering tasks, and completing all tasks.
 
